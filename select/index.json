@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "NOBODY",
+  "base_artist": "ZEP",
+  "createdAt": "2026-02-13T12:38:13.616205Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Nobody (R3HAB Remix)",
+      "artist": "Dylan Scott feat. R3HAB",
+      "has_synced": true,
+      "path": "select/01_Nobody_(R3HAB_Remix)_Dylan_Scott_feat._R3HAB.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Nobody (R3HAB Remix)",
+      "artist": "Dylan Scott",
+      "has_synced": true,
+      "path": "select/02_Nobody_(R3HAB_Remix)_Dylan_Scott.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Nobody",
+      "artist": "Dylan Scott",
+      "has_synced": true,
+      "path": "select/03_Nobody_Dylan_Scott.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Nobody",
+      "artist": "Sylvia",
+      "has_synced": false,
+      "path": "select/04_Nobody_Sylvia.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Nobody",
+      "artist": "Sylvia",
+      "has_synced": true,
+      "path": "select/05_Nobody_Sylvia.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Nobody (Stripped)",
+      "artist": "Dylan Scott",
+      "has_synced": true,
+      "path": "select/06_Nobody_(Stripped)_Dylan_Scott.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Nobody But You (Duet with Gwen Stefani) - Live",
+      "artist": "Blake Shelton feat. Gwen Stefani",
+      "has_synced": true,
+      "path": "select/07_Nobody_But_You_(Duet_with_Gwen_Stefani)_-_Live_Blake_Shelton_feat._Gwen_Stefani.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Nobody But You (Duet with Gwen Stefani)",
+      "artist": "Blake Shelton",
+      "has_synced": true,
+      "path": "select/08_Nobody_But_You_(Duet_with_Gwen_Stefani)_Blake_Shelton.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Nobody But You (Duet with Gwen Stefani) [Acoustic] [feat. Gwen Stefani]",
+      "artist": "Blake Shelton",
+      "has_synced": true,
+      "path": "select/09_Nobody_But_You_(Duet_with_Gwen_Stefani)_[Acoustic]_[feat._Gwen_Stefani]_Blake_Shelton.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Nobody But You (Duet with Gwen Stefani) (Acoustic)",
+      "artist": "Blake Shelton",
+      "has_synced": true,
+      "path": "select/10_Nobody_But_You_(Duet_with_Gwen_Stefani)_(Acoustic)_Blake_Shelton.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Nobody Falls Like a Fool",
+      "artist": "Earl Thomas Conley",
+      "has_synced": true,
+      "path": "select/11_Nobody_Falls_Like_a_Fool_Earl_Thomas_Conley.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Nobody In His Right Mind Would've Left Her",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/12_Nobody_In_His_Right_Mind_Would've_Left_Her_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Nobody In His Right Mind Would've Left Her",
+      "artist": "Keith Whitley",
+      "has_synced": false,
+      "path": "select/13_Nobody_In_His_Right_Mind_Would've_Left_Her_Keith_Whitley.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Nobody In His Right Mind Would've Left Her (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/14_Nobody_In_His_Right_Mind_Would've_Left_Her_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Nobody In His Right Mind Would've Left Her (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/15_Nobody_In_His_Right_Mind_Would've_Left_Her_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Nobody Knows",
+      "artist": "Kevin Sharp",
+      "has_synced": true,
+      "path": "select/16_Nobody_Knows_Kevin_Sharp.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "NOBODY",
+      "artist": "ZEP",
+      "has_synced": false,
+      "path": "select/pl_01_NOBODY_ZEP.txt"
+    }
+  ]
+}
