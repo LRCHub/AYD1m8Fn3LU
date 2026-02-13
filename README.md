@@ -1,0 +1,66 @@
+# ZEP – NOBODY
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Yeah, yeah
+No, no, no, no (Huh)
+Nobody's tall like this,
+talks like this
+I'm bald as shit (Huh)
+Whole lotta people in here
+Y-Y-You can't miss, yeah,
+please don't slip (Huh)
+Nobody fucks like this
+Talks like this,
+I'm tall like this (Huh)
+Whole lotta people in here
+You can't miss, yeah,
+please don't slip
+Nobody, nobody
+Nobody, nobody
+Nobody, nobody
+Nobody, nobody-y-y
+No, no, no, no (Huh)
+Nobody's tall like this,
+talks like this
+I'm bald as shit (Huh)
+Whole lotta people in here
+Y-Y-You can't miss—
+(I'm six foot six)
+Nobody's up like this
+Fucks like this,
+I was broke as shit (Huh)
+Whole lotta people in here
+You can't miss, yeah,
+please don't switch
+Always knew that I would be
+here one day
+I just called my dad
+and told him we would be okay
+Wishing that my mother could've
+helped me celebrate
+Nobody, nobody
+Nobody, nobody
+Nobody, nobody
+Nobody, nobody-y-y
+Always knew that I would be
+here one day
+I just called by dad
+and told him we would be o—
+(Huh)
+Nobody's tall like this,
+talks like this
+I'm bald as shit (Huh)
+Whole lotta people in here
+Y-Y-You can't miss, yeah,
+please don't slip (Huh)
+Nobody fucks like this
+Tall like this,
+I'm tall like this (Huh)
+Whole lotta people in here
+You can't miss it,
+please don't slip
+Nobody, nobody
+Nobody, nobody (Yeah)
+```
